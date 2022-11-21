@@ -4,4 +4,4 @@ instruction one
 instruction two
 instruction three
 
-instruction four
+instruction four with other instructions
