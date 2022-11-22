@@ -12,4 +12,4 @@ instruction six
 
 esta instruccion fue adicionada desde github directamente
 
-esta instruccion tambien fue adicionada desde github directamente
+esta linea resuelve el conflicto
