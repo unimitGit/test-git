@@ -13,3 +13,5 @@ instruction six
 esta instruccion fue adicionada desde github directamente
 
 esta linea resuelve el conflicto
+
+nueva instruccion dada por el adiministrador
