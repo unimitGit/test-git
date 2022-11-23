@@ -12,7 +12,7 @@ instruction six
 
 esta instruccion fue adicionada desde github directamente
 
-esta linea resuelve el conflicto
+esta linea ya no esta resolviendo el conflicto
 
 nueva instruccion dada por el adiministrador
 
