@@ -17,3 +17,5 @@ esta linea ya no esta resolviendo el conflicto
 nueva instruccion dada por el adiministrador
 
 esta instruccion fue puesta por feature branch
+
+esta instruccion ha sido corregida por jose
