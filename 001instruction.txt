@@ -19,3 +19,5 @@ nueva instruccion dada por el adiministrador
 esta instruccion fue puesta por feature branch
 
 esta instruccion ha sido corregida por jose
+
+esta instruccion debe causar conflicto
